@@ -15,6 +15,3 @@ Instruction:-
 1. Open cmd in current directory.
 2. Run Server type command python server.py
 3. Run Single CLient type command python client.py
-
-Thank You
-Hope you like it.........................
